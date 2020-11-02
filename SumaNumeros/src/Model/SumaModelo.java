@@ -5,6 +5,7 @@ public class SumaModelo {
 	private int a;
 	private int b;
 	private int c;
+	private int d;
 	
 	//Constructor
 	public SumaModelo(int a,int b) {
